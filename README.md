@@ -1,6 +1,6 @@
 # Horiseon
 
-![Horiseon Screencap](Develop/assets/images/horiseon.png)
+![Horiseon Screencap](assets/images/horiseon.png)
 
 ## Purpose
 A website that offers digital marketing services. 
